@@ -1,0 +1,620 @@
+MAIN news
+NewsKey:  1088286
+Headline:  Lidl urgently recalls brand of chicken nuggets over fears they contain plastic shards
+DESC:  CHICKEN dippers have been urgently recalled from Lidl over fears they contain shards of plastic. The supermarket’s PERSON 25 Chicken Dippers were found to contain pieces of hard blue plastic, according to the Food Standards Agency (FSA). It makes the
+----duplicates for 1088286 are----['1088279']
+****
+DUPLICATE News 1
+Score:  0.994534552
+NewsKey:  1088279
+Headline:  Lidl urgently recalls brand of chicken nuggets over fears they contain plastic shards - YoursBulletin
+DESC:  CHICKEN dippers have been urgently recalled from Lidl over fears they contain shards of plastic. The supermarket’s PERSON 25 Chicken Dippers were found to contain pieces of hard blue plastic, according to the Food Standards Agency (FSA). 2 Lidl has u
+****
+****
+DUPLICATE News 2
+Score:  0.993681252
+NewsKey:  1088344
+Headline:  Lidl urgently recalls brand of chicken nuggets over fears they contain plastic shards - USTimesPost
+DESC:  Lidl urgently recalls brand of chicken nuggets over fears they contain plastic shards Lidl has urgently recalled chicken spoons over fears they contain plastic splinters. Pieces of hard blue plastic were found in the supermarket’s Red Hen Battered 25
+****
+****
+
+
+
+--------
+--------
+
+
+--------
+MAIN news
+NewsKey:  1088242
+Headline:  Man is shot, killed in Prince George’s
+DESC:  The man was shot about 8:15 p.m. the Chillum area, in the 6800 block of Red Top Road, according to police.  //www.washingtonpost.com/dc-md-va/2023/10/09/man-shot-prince-georges-chillum/ Author : PERSON date : 2023-10-09 06:20:58  ESPANA FRANCE GERMAN
+----duplicates for 1088242 are----['1088240']
+****
+DUPLICATE News 1
+Score:  0.959657788
+NewsKey:  1088240
+Headline:  Man is shot, killed in Prince George’s
+DESC:  The man was shot about 8:15 p.m. the Chillum area, in the 6800 block of Red Top Road, according to police. Source link : https://www.washingtonpost.com/dc-md-va/2023/10/09/man-shot-prince-georges-chillum/ Author : PERSON date : 2023-10-09 06:20:58 Co
+****
+--------
+--------
+--------
+
+
+
+
+--------
+MAIN news
+NewsKey:  1088039
+Headline:  Coast Guard medevacs injured man from survey vessel offshore Charleston
+DESC:  Coast Guard medevacs injured man from survey vessel offshore Charleston Published: Oct. 8, 2023 at 7:34 PM EDT|Updated: 10 hours ago CHARLESTON, S.C. (WCSC) - The Coast Guard says they medevaced a man from a survey vessel 51 miles offshore of Charles
+----duplicates for 1088039 are----['1089263']
+****
+DUPLICATE News 1
+Score:  0.99145484
+NewsKey:  1089263
+Headline:  Coast Guard medevacs injured man from survey vessel offshore Charleston | Fox Wilmington WSFX-TV
+DESC:  CHARLESTON, S.C. (WCSC) – The Coast Guard says they medevaced a man from a survey vessel 51 miles offshore of Charleston on Sunday. Coast Guard Sector Charleston watchstanders got a report from the captain of the PERSON survey vessel just before noon
+****
+****
+
+--------
+--------
+--------
+
+
+MAIN news
+NewsKey:  1088038
+Headline:  Passengers fall ill after 'unknown fumes' fill British Airways flight as customers rushed off plane at Heathrow - USTimesPost
+DESC:  Passengers fall ill after ‘unknown fumes’ fill British Airways flight as customers rushed off plane at Heathrow PASSENGERS were left sick after “unknown fumes” filled a British Airways flight – and customers fell off the plane at Heathrow. After the 
+----duplicates for 1088038 are----['1088103']
+****
+DUPLICATE News 1
+Score:  0.997902393
+NewsKey:  1088103
+Headline:  Passengers fall ill after “unknown fumes” filled the British Airways flight as customers disembarked at Heathrow - WstNewsPost
+DESC:  [News](https://wstnewspost.com/news/) Passengers fall ill after “unknown fumes” filled the British Airways flight as customers disembarked at Heathrow PASSENGERS were left sick after “unknown fumes” filled a British Airways flight – and customers fel
+****
+****
+DUPLICATE News 2
+Score:  0.99432683
+NewsKey:  1088070
+Headline:  Passengers fall ill after ‘unknown fumes’ fill British Airways flight as customers rushed off plane at Heathrow
+DESC:  Share and Follow PASSENGERS fell ill after “unknown fumes” filled a British Airways flight – with customers rushed off the plane at Heathrow. Emergency services scrambled to the Terminal 5 runway after the plane arrived from Barcelona at around 4.15p
+****
+****
+DUPLICATE News 3
+Score:  0.970362365
+NewsKey:  1088239
+Headline:  British Airways evacuates passengers from plane at Heathrow after four taken ill from... - LBC
+DESC:  [ PERSON ](/radio/presenters/PERSON) 10am - 1pm British Airways evacuates passengers from plane at Heathrow after four taken ill from unknown 'fumes' 9 October 2023, 07:51 | Updated: 9 October 2023, 11:45 A British Airways plane had to be evacuated a
+****
+****
+DUPLICATE News 4
+Score:  0.969588
+NewsKey:  1088579
+Headline:  British Airways plane evacuated at Heathrow with cabin crew in hazmat suits after some fall ill from mysterious fumes
+DESC:  The BA plane reportedly filled with fumes (stock photo) A British Airways flight from Heathrow Airport was yesterday evacuated after strange fumes emerged from the cockpit. It led to some members of cabin crew falling ill, with others putting on hazm
+****
+****
+DUPLICATE News 5
+Score:  0.96708709
+NewsKey:  1088554
+Headline:  Emergency evacuation of BA plane after fumes come out of cockpit | A collection of what's on Bristol
+DESC:  A British Airways passenger jet had to be evacuated after fumes started emanating from the cockpit. It led to some members of cabin crew falling ill, with others putting on hazmat suits, according to one passenger. The flight from Barcelona landed at
+****
+****
+DUPLICATE News 6
+Score:  0.9600389
+NewsKey:  1088346
+Headline:  British Airways plane evacuated after passengers fall ill from ‘fumes’ on flight
+DESC:  A large emergency services operation took place at Heathrow Airport yesterday in response to reports of passengers feeling unwell due to “fumes” detected on a British Airways plane. Ambulances and firefighters raced to the scene, and pictures shared 
+****
+****
+DUPLICATE News 7
+Score:  0.957278967
+NewsKey:  1087999
+Headline:  Heathrow passengers ‘rushed off plane’ after reports of ‘unknown fumes’ | UK News
+DESC:  Passengers at Heathrow were rushed off a plane after reports of ‘unknown fumes’ on a British Airways flight from Barcelona. Emergency services responded to the incident earlier today after the plane had landed in London. Footage and photos posted onl
+****
+****
+DUPLICATE News 8
+Score:  0.957069457
+NewsKey:  1088374
+Headline:  British Airways Plane Evacuated at Heathrow After Passengers Fall Ill from Unknown ‘Fumes’
+DESC:  A British Airways flight arriving from Barcelona had to be evacuated at London’s Heathrow Airport after several passengers fell ill from unknown fumes. Emergency services responded to the incident, with firefighters wearing breathing apparatus seen p
+****
+****
+DUPLICATE News 9
+Score:  0.954369605
+NewsKey:  1087984
+Headline:  Heathrow Passengers Urgently Evacuated From Plane Amid Reports Of Harmful Fumes - The Insidexpress
+DESC:  Police boarded the plane as it landed at Heathrow earlier today (Picture: PERSON) Passengers at Heathrow were rushed off a plane after reports of ‘unknown fumes’ on a British Airways flight from Barcelona. Emergency services responded to the incident
+****
+****
+DUPLICATE News 10
+Score:  0.953992486
+NewsKey:  1087943
+Headline:  Heathrow passengers ‘rushed off plane’ after reports of ‘unknown fumes’
+DESC:  [United Kingdom](../) Heathrow passengers ‘rushed off plane’ after reports of ‘unknown fumes’ Passengers at Heathrow were rushed off a plane after reports of ‘unknown fumes’ on a [British Airways](//metro.co.uk/tag/british-airways/?ico=auto_link_news
+****
+****
+DUPLICATE News 11
+Score:  0.951295
+NewsKey:  1087892
+Headline:  Emergency services rush to Heathrow as 'smoke and fumes' emerge from cockpit of BA flight
+DESC:  Passengers on a British Airways flight at Heathrow Terminal 5 found themselves having to wait for hours on end following what they claim to have initially been told was a “potential contagion”. Passenger PERSON posted online: “Nothing like being lock
+****
+****
+DUPLICATE News 12
+Score:  0.948695719
+NewsKey:  1088498
+Headline:  British Airways plane evacuated after passengers fall ill from ‘fumes’ on flight - VCP Travel
+DESC:  A large emergency services operation took place at [Heathrow Airport](https://www.independent.co.uk/topic/heathrow-airport) yesterday in response to reports of passengers feeling unwell due to “fumes” detected on a [British Airways](https://www.indep
+****
+****
+DUPLICATE News 13
+Score:  0.946805358
+NewsKey:  1087901
+Headline:  Heathrow passengers ‘rushed off plane’ after reports of ‘toxic fumes’ | UK News
+DESC:  Passengers at Heathrow were rushed off a plane after reports of ‘unknown fumes’ on a British Airways flight from Barcelona. Emergency services responded to the incident earlier today after the plane had landed in London. Footage and photos posted onl
+****
+****
+DUPLICATE News 14
+Score:  0.945937276
+NewsKey:  1087907
+Headline:  Heathrow passengers ‘rushed off plane’ after reports of ‘toxic fumes’
+DESC:  Passengers at Heathrow were rushed off a plane after reports of ‘unknown fumes’ on a British Airways flight from Barcelona. Emergency services responded to the incident earlier today after the plane had landed in London. Footage and photos posted onl
+****
+****
+DUPLICATE News 15
+Score:  0.943689227
+NewsKey:  1087937
+Headline:  Passengers Fall Ill on British Airways Flight at Heathrow Airport
+DESC:  Passengers on a British Airways flight from Barcelona fell ill upon landing at Heathrow Airport, leading to a major emergency response. The incident occurred at Terminal 5, with firefighters, ambulance crews, and hazardous response teams rushing to t
+****
+****
+DUPLICATE News 16
+Score:  0.942277968
+NewsKey:  1087902
+Headline:  Heathrow passengers 'rushed off plane' after reports of 'toxic fumes' | UK News - Jaun News Uk
+DESC:  Passengers at Heathrow were rushed off a plane after reports of ‘unknown fumes’ on a [British Airways](https://metro.co.uk/tag/british-airways/?ico=auto_link_news_P1_LNK1) flight from Barcelona. Emergency services responded to the incident earlier to
+****
+****
+DUPLICATE News 17
+Score:  0.9400962
+NewsKey:  1087922
+Headline:  Heathrow passengers 'rushed off plane' after reports of 'unknown fumes' | UK News - Quick Telecast
+DESC:  Police boarded the plane as it landed at Heathrow earlier today (Picture: PERSON) Passengers at Heathrow were rushed off a plane after reports of ‘unknown fumes’ on a British Airways flight from Barcelona. Emergency services responded to the incident
+****
+****
+DUPLICATE News 18
+Score:  0.937603772
+NewsKey:  1088211
+Headline:  Heathrow Evacuated as Unknown 'Fumes' Cause Illness on British Airways Flight, UK - The Reportify
+DESC:  PERSON Airport in London was temporarily evacuated on Sunday after four passengers fell ill on a British Airways flight. Hazmat-suited staff were seen assisting in the response, with emergency services rushing to Terminal 5 after the plane landed fro
+****
+****
+
+--------
+--------
+--------
+MAIN news
+NewsKey:  1088036
+Headline:  TV Chef PERSON at 61 - Quick Telecast
+DESC:  Celebrity chef and former Food Network star PERSON has died. The culinary expert was 61. PERSON died at the Queen of the Valley Medical Center in Napa, California, where he had been treated for the past week for an acute allergic reaction that led to
+----duplicates for 1088036 are----['1087972']
+****
+DUPLICATE News 1
+Score:  0.994008303
+NewsKey:  1087972
+Headline:  TV Chef PERSON at 61
+DESC:  TV Chef PERSON at 61 Celebrity chef and former  Food Network star PERSON has died. The culinary expert was 61. PERSON died at the Queen of the Valley Medical Center in Napa, California, where he had been treated for the past week for an acute allergi
+****
+****
+DUPLICATE News 2
+Score:  0.980266929
+NewsKey:  1087991
+Headline:  ‘Food Network’ Star PERSON’s Cause Of Death Revealed
+DESC:  Food Network star and celebrity chef PERSON has passed away at the age of 61, after being rushed to a hospital. According to his family, PERSON died surrounded by his loved ones at the Queen of the Valley Medical Center in Napa, where he was receivin
+****
+****
+DUPLICATE News 3
+Score:  0.976254642
+NewsKey:  1087841
+Headline:  Napa-Based Celebrity Chef PERSON at Age 61
+DESC:  PERSON, a celebrity of food TV and a long-established Bay Area chef and restaurateur, died Friday at the age of 61. The cause, according to a statement from his company, PERSON, was anaphylactic shock, after PERSON had sought treatment for an acute a
+****
+****
+DUPLICATE News 4
+Score:  0.972209096
+NewsKey:  1088007
+Headline:  Napa-Based Celebrity Chef PERSON at Age 61 - Archysport
+DESC:  PERSON, a celebrity of food TV and a long-established Bay Area chef and restaurateur, died Friday at the age of 61. The cause, according to a statement from his company, PERSON, was anaphylactic shock, after PERSON had sought treatment for an acute a
+****
+****
+DUPLICATE News 5
+Score:  0.961436749
+NewsKey:  1088016
+Headline:  PERSON, 'Food Network' Star Chef, Dead at 61 After Allergic Reaction - WDC NEWS 6
+DESC:  Celebrity chef PERSON , a former Food Network star, has died. He was 61. Chiarello died at the Queen of the Valley Medical Center in Napa, California, on Friday, People reports. He’d spent the last week being treated for an acute allergic reaction th
+****
+****
+DUPLICATE News 6
+Score:  0.960137725
+NewsKey:  1088538
+Headline:  American TV Chef PERSON Dies Unexpectedly Due to Severe Allergic Reaction
+DESC:  The well-known American TV chef PERSON (61) is dead. How US media According to reports, PERSON died unexpectedly on Saturday. His company Gruppo PERSON said the cause was a severe allergic reaction that led to anaphylactic shock. As a result of his c
+****
+****
+DUPLICATE News 7
+Score:  0.959835887
+NewsKey:  1087998
+Headline:  PERSON, ‘Food Network’ Star Chef, Dead at 61 After Allergic Reaction
+DESC:  Celebrity chef PERSON, a former Food Network star, has died. He was 61. Chiarello died at the Queen of the Valley Medical Center in Napa, California, on Friday, People reports. He’d spent the last week being treated for an acute allergic reaction tha
+****
+****
+DUPLICATE News 8
+Score:  0.956585407
+NewsKey:  1088095
+Headline:  PERSON, 'Food Network' Star Chef, Dead at 61 After Allergic Reaction
+DESC:  Published: 4:37 PM PDT, October 8, 2023 Celebrity chef PERSON, a former Food Network star, has died. He was 61. Chiarello died at the Queen of the Valley Medical Center in Napa, California, on Friday, People reports. He'd spent the last week being tr
+****
+****
+DUPLICATE News 9
+Score:  0.94922471
+NewsKey:  1088565
+Headline:  Celebrity chef PERSON dies of anaphylactic shock
+DESC:  Entertainment Celebrity chef PERSON dies of anaphylactic shock PERSON - After an allergic reaction: US celebrity chef is dead The American celebrity chef PERSON has died after a tragic accident at the age of 61. He succumbed to the effects of an alle
+****
+****
+DUPLICATE News 10
+Score:  0.945492923
+NewsKey:  1089562
+Headline:  Chef and TV star PERSON dies after suffering an allergic reaction
+DESC:  Emmy winner PERSON, 61, hospitalized after suffering anaphylactic shock Last Friday, 10/06, the famous chef and host of Food Network PERSON died, aged 61, following anaphylactic shock caused by an allergy, according to the site TheWrap. The family re
+****
+****
+DUPLICATE News 11
+Score:  0.945398867
+NewsKey:  1089669
+Headline:  Cause of chef PERSON’s deadly allergic reaction may remain a mystery
+DESC:  Private funeral arrangements were being made Monday for PERSON, the highly acclaimed Bay Area chef, entrepreneur, cookbook author and vintner who succumbed to an allergic reaction that sent him into anaphylactic shock. PERSON died Friday at Queen of 
+****
+****
+DUPLICATE News 12
+Score:  0.94375515
+NewsKey:  1088563
+Headline:  Renowned celebrity chef PERSON has tragically passed away at the age of 61, succumbing to a sudden and severe allergic reaction.
+DESC:  The former “Food Network” luminary departed this world on Saturday, October 7, while under medical care at the Queen of the Valley Medical Center in Napa, California. His company revealed that his hospitalization was the result of a fatal allergic ep
+****
+****
+
+--------
+
+
+
+
+--------
+--------
+
+
+
+
+
+
+--------
+--------
+--------
+MAIN news
+NewsKey:  1088120
+Headline:  PERSON near-drowning: Baby rushed to Logan Hospital, Queensland
+DESC:  Baby boy rushed to hospitalHe survived near-drowning A baby boy has been rushed to hospital following a near drowning at a family pool. The boy had been swimming at a home at Bahrs Scrub in Logan, Queensland, at 6.45pm on Sunday. Emergency services w
+----duplicates for 1088120 are----['1088114']
+****
+DUPLICATE News 1
+Score:  0.995552063
+NewsKey:  1088114
+Headline:  PERSON near-drowning: Baby rushed to Logan Hospital, Queensland
+DESC:  PERSON near-drowning: Baby rushed to Logan Hospital, Queensland - Baby boy rushed to hospital - He survived near-drowning A baby boy has been rushed to hospital following a near drowning at a family pool. The boy had been swimming at a home at PERSON
+****
+****
+DUPLICATE News 2
+Score:  0.991189659
+NewsKey:  1088117
+Headline:  PERSON near-drowning: Baby rushed to Logan Hospital, Queensland
+DESC:  A baby boy has been rushed to hospital following a near drowning at a family pool. The boy had been swimming at a home at Bahrs Scrub in Logan, Queensland, at 6.45pm on Sunday. Emergency services were called to the scene where he was found ‘conscious
+****
+****
+DUPLICATE News 3
+Score:  0.985695779
+NewsKey:  1088118
+Headline:  Baby in Bahrs Scrub near-drowning incident urgently transported to Logan Hospital in Queensland
+DESC:  PERSON near drowning: baby rushed to Logan Hospital, Queensland - Little boy rushed to hospital - He almost drowned A little boy was rushed to hospital after nearly drowning in a family swimming pool. The boy was swimming at a PERSON home in Logan, Q
+****
+****
+DUPLICATE News 4
+Score:  0.972283363
+NewsKey:  1088115
+Headline:  PERSON near-drowning: Baby rushed to Logan Hospital, Queensland - Sound Health and Lasting Wealth
+DESC:  A baby boy has been rushed to hospital following a near drowning at a family pool. The boy had been swimming at a home at Bahrs Scrub in Logan, [Queensland](https://www.dailymail.co.uk/news/queensland/index.html), at 6.45pm on Sunday. Emergency servi
+****
+****
+DUPLICATE News 5
+Score:  0.949540734
+NewsKey:  1088106
+Headline:  PERSON near-drowning: Child rushed to Logan Hospital, Queensland | Pakkikhabar
+DESC:  PERSON near-drowning: Baby rushed to Logan Hospital, Queensland Baby boy rushed to hospital He survived near-drowning By Daily Mail Reporter Published: 00:02 EDT, 9 October 2023 | Updated: 00:02 EDT, 9 October 2023 A baby boy has been rushed to hospi
+****
+****
+DUPLICATE News 6
+Score:  0.927219808
+NewsKey:  1088093
+Headline:  Infant taken to logan hospital after nearly drowning in a pool
+DESC:  An infant has been rushed to hospital after a near-drowning in PERSON, south of Brisbane. Paramedics found the baby “conscious and breathing” when they were called to a private address in Bahrs Scrub, PERSON shortly before 6.45pm on Sunday. They trea
+****
+--------
+--------
+--------
+
+
+
+
+
+
+
+--------
+--------
+--------
+MAIN news
+NewsKey:  1088109
+Headline:  Over a dozen minor injuries after footbridge collapses northeast of Quebec City -
+DESC:  Over a dozen people suffered minor injuries and some were taken to hospital after a footbridge collapsed at an event to celebrate a mountain bike World Cup event northeast of Quebec City on Saturday. Quebec provincial police spokeswoman PERSON says s
+----duplicates for 1088109 are----['1087761']
+****
+DUPLICATE News 1
+Score:  0.991415381
+NewsKey:  1087761
+Headline:  Over a dozen minor injuries after footbridge collapses northeast of Quebec City
+DESC:  BEAUPRÉ, Que. — Over a dozen people suffered minor injuries and some were taken to hospital after a footbridge collapsed at an event to celebrate a mountain bike World Cup event northeast of Quebec City on Saturday. Quebec provincial police spokeswom
+****
+--------
+--------
+--------
+
+
+
+
+--------
+--------
+--------
+MAIN news
+NewsKey:  1088079
+Headline:  Russian Man Found Collapsed on Daisetsuzan Mountain Trail in Hokkaido; Rescued by PERSON, Later Confirmed Dead
+DESC:  A climber found a collapsed man on the trail connecting Mt. Mamiya (2185 meters) and Mt. Asahidake (2291 meters) in the PERSON mountain range in Hokkaido at around 10:00 a.m. on Sunday. The man, a 30-year-old Russian, was rescued by police helicopter
+----duplicates for 1088079 are----['1088072']
+****
+DUPLICATE News 1
+Score:  0.990432382
+NewsKey:  1088072
+Headline:  Russian Man Found Collapsed on Daisetsuzan Mountain Trail in Hokkaido; Rescued by PERSON, Later Confirmed Dead - Japane TOPNews.MEDIA
+DESC:  11:21 JST, October 9, 2023 A climber found a collapsed man on the trail connecting Mt. Mamiya (2185 meters) and Mt. Asahidake (2291 meters) in the PERSON mountain range in Hokkaido at around 10:00 a.m. on Sunday. The man, a 30-year-old Russian, was r
+****
+--------
+--------
+--------
+
+
+
+
+
+--------
+--------
+--------
+MAIN news
+NewsKey:  1088063
+Headline:  6 killed as tourist bus falls into gorge in Nainital
+DESC:  Dehradun: Six passengers were killed and 27 others were injured when a bus fell into a ditch in the PERSON area of Nainital district on Sunday. The bus was carrying tourists from Haryana’s Hisar district. According to the information received from th
+----duplicates for 1088063 are----['1087957', '1087857', '1087879']
+****
+DUPLICATE News 1
+Score:  0.996989787
+NewsKey:  1087879
+Headline:  6 passengers dead after tourist bus falls into gorge in Nainital | Latest News India - Realtimeindia News
+DESC:  Six passengers were killed and 27 others were injured when a bus fell into a ditch in the PERSON area of Nainital district on Sunday. The bus was carrying tourists from Haryana’s Hisar district. According to the information received from the Nainital
+****
+****
+DUPLICATE News 2
+Score:  0.995830238
+NewsKey:  1087857
+Headline:  6 killed as tourist bus falls into gorge in Nainital
+DESC:  Dehradun, Oct 8 (PTI) Six passengers were killed and 27 others were injured when a bus fell into a ditch in the PERSON area of Nainital district on Sunday. The bus was carrying tourists from Haryana's Hisar district. According to the information rece
+****
+****
+DUPLICATE News 3
+Score:  0.991228759
+NewsKey:  1087957
+Headline:  6 Tourists From Haryana Killed After Bus Falls Into Gorge In Nainital
+DESC:  There were 33 passengers on the bus at the time of the accident. (Representational) Six passengers were killed and 27 others were injured when a bus fell into a ditch in the PERSON area of Nainital district on Sunday. The bus was carrying tourists fr
+****
+****
+DUPLICATE News 4
+Score:  0.990160525
+NewsKey:  1088128
+Headline:  Uttarakhand: 6 Tourist From Haryana Killed As Bus Falls into Gorge in Nainital
+DESC:  The bus was carrying tourists from Haryana’s Hisar district (Representative image: News18) There were 33 passengers on the bus at the time of the accident At least six people were killed and 27 others were injured after the bus they were travelling i
+****
+****
+DUPLICATE News 5
+Score:  0.96759367
+NewsKey:  1087781
+Headline:  18 injured as bus with 32 onboard falls into gorge in Nainital
+DESC:  3 dead, 28 injured as bus falls into gorge in Uttarakhand's Nainital A bus carrying 32 passengers fell into a gorge in Nainital on Sunday, leaving three dead and 28 injured. The injured passengers have been taken to a nearby hospital for treatment. L
+****
+****
+DUPLICATE News 6
+Score:  0.965987802
+NewsKey:  1087931
+Headline:  18 injured as bus with 32 onboard falls into gorge in Nainital - Newsfeel.com
+DESC:  Source : INDIA TODAY NEWS A bus carrying 32 passengers fell into a gorge in Uttarakhand’s Nainital on Sunday, leaving 18 injured. The injured passengers were rushed to nearby hospitals by state officials and locals. The bus, travelling from PERSON, w
+****
+****
+DUPLICATE News 7
+Score:  0.960379958
+NewsKey:  1087883
+Headline:  Bus falls in ditch near Uttarakhand's Nainital, several injured, rescue operation underway
+DESC:  Three people died as a bus returning from Nainital in Uttarakhand went out of control near Ghatgad on PERSON Road and fell into a deep ditch, an official said on Sunday (October 8). Nearly 32 people were travelling in the bus, out of whom 28 have bee
+****
+****
+DUPLICATE News 8
+Score:  0.959371328
+NewsKey:  1087830
+Headline:  4 Dead, 18 Injured After Bus Carrying 32 Passengers Falls Into Gorge In Nainital | India News | Zee News
+DESC:  4 Dead, 18 Injured After Bus Carrying 32 Passengers Falls Into Gorge In Nainital The bus was on its way to Kaladhungi Road in Nainital when the accident occurred. Trending Photos New Delhi: A tragic accident occurred when a bus carrying 32 passengers
+****
+****
+DUPLICATE News 9
+Score:  0.959156036
+NewsKey:  1087818
+Headline:  Bus falls in ditch near Uttarakhand's Nainital, several injured, rescue operation underway - Realtimeindia News
+DESC:  A bus returning from Nainital in Uttarakhand went out of control near Ghatgad on PERSON Road and fell into a deep ditch, injuring several passengers, officials said on Sunday (October 8). Nainital’s disaster control room received information that a b
+****
+****
+DUPLICATE News 10
+Score:  0.958155215
+NewsKey:  1087915
+Headline:  Bus falls in ditch in Uttarakhand's Nainital, several injured, rescue operation underway - Newsfeel.com
+DESC:  Source : INDIATV NEWS A bus returning from Nainital in Uttarakhand went out of control near Ghatgad on PERSON Road and fell into a deep ditch, injuring several passengers, officials said on Sunday (October 8). Nainital’s disaster control room receive
+****
+****
+DUPLICATE News 11
+Score:  0.958110929
+NewsKey:  1087852
+Headline:  Three dead as bus falls in ditch in Uttarakhand’s Nainital, rescue operation launched
+DESC:  Three people died as a bus returning from Nainital in Uttarakhand went out of control near Ghatgad on PERSON Road and fell into a deep ditch, an official said on Sunday (October 8). Nearly 32 people were travelling in the bus, out of whom 28 have bee
+****
+****
+DUPLICATE News 12
+Score:  0.957600653
+NewsKey:  1087807
+Headline:  Uttarakhand: 4 Dead, 18 Injured As Bus Falls Into Gorge In Nainital; Visuals Surface
+DESC:  A bus with 32 passengers on board met with an accident in Nainital, Uttarakhand on Sunday, tumbling into a gorge and resulting in 4 deaths and 18 injuries. State authorities and local residents promptly transported the injured passengers to nearby ho
+****
+****
+DUPLICATE News 13
+Score:  0.951550066
+NewsKey:  1088105
+Headline:  Seven dead, over a dozen injured in Nainital after bus falls into gorge | India news iv News | Irshi Videos
+DESC:  At least seven passengers, including five women and a minor, were killed and over a dozen injured when a bus carrying them plunged into a gorge in Kaladungi district of Uttarakhand’s Nainital district on Sunday night. According to initial information
+****
+****
+DUPLICATE News 14
+Score:  0.944045
+NewsKey:  1088042
+Headline:  Tragic Bus Accident in Nainital District Claims Six Lives, Injures 27
+DESC:  Accidents Tragic Bus Accident in Nainital District Claims Six Lives, Injures 27 Tragic Bus Accident in Nainital District Claims Six Lives, Injures 27 Tragic Bus Accident in Nainital District Claims Six Lives, Injures 27 In a tragic incident, a bus ca
+****
+****
+
+
+
+
+--------
+--------
+--------
+MAIN news
+NewsKey:  1088543
+Headline:  Plumber Stuck In Lift At Delhi's Residential Building, Dies | Nation
+DESC:  New Delhi: A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in Naraina police station regarding a person getting stuck in the lift follo
+----duplicates for 1088543 are----['1088514', '1088473', '1088469']
+****
+DUPLICATE News 1
+Score:  0.998814583
+NewsKey:  1088514
+Headline:  Plumber stuck in lift at Delhi's residential building, dies | News Room Odisha
+DESC:  New Delhi: A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in Naraina police station regarding a person getting stuck in the lift follo
+****
+****
+DUPLICATE News 2
+Score:  0.998803556
+NewsKey:  1088480
+Headline:  Plumber stuck in lift at Delhi’s residential building, dies
+DESC:  New Delhi, Oct 9 (IANS) A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in Naraina police station regarding a person getting stuck in t
+****
+****
+DUPLICATE News 3
+Score:  0.998233914
+NewsKey:  1088510
+Headline:  Plumber stuck in lift at Delhi’s residential building, dies
+DESC:  A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in Naraina police station regarding a person getting stuck in the lift following which 
+****
+****
+DUPLICATE News 4
+Score:  0.997413456
+NewsKey:  1088463
+Headline:  Plumber stuck in lift at Delhi's residential building, dies
+DESC:  New Delhi, Oct 9 : A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in Naraina police station regarding a person getting stuck in the li
+****
+****
+DUPLICATE News 5
+Score:  0.997198641
+NewsKey:  1088473
+Headline:  Plumber stuck in lift at Delhi’s residential building, dies | Australia India News
+DESC:  New Delhi, Oct 9 (IANS) A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in Naraina police station regarding a person getting stuck in t
+****
+****
+DUPLICATE News 6
+Score:  0.996824324
+NewsKey:  1088469
+Headline:  Plumber stuck in lift at Delhi's residential building, dies - Weekly Voice
+DESC:  New Delhi, Oct 9 (VOICE) A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in Naraina police station regarding a person getting stuck in 
+****
+****
+DUPLICATE News 7
+Score:  0.996389925
+NewsKey:  1088456
+Headline:  Plumber stuck in lift at Delhi’s residential building, dies
+DESC:  New Delhi, Oct 9 (SocialNews.XYZ) A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in Naraina police station regarding a person getting 
+****
+****
+DUPLICATE News 8
+Score:  0.994535625
+NewsKey:  1088501
+Headline:  Plumber stuck in lift at Delhi's residential building, dies
+DESC:  Plumber stuck in lift at Delhi's residential building, dies New Delhi, Oct 9 (IANS) A plumber died after getting stuck in a lift at a residential building in west Delhi, an official said on Monday. Police control room said that it received a call in 
+****
+****
+DUPLICATE News 9
+Score:  0.990253448
+NewsKey:  1088460
+Headline:  Plumber stuck in lift at Delhi's residential building, dies
+DESC:  Police control room said that it received a call in Naraina police station regarding a person getting stuck in the lift following which a police team was dispatched. Police, with help of a local technician, opened the lift and the injured was taken t
+****
+****
+DUPLICATE News 10
+Score:  0.967530668
+NewsKey:  1089295
+Headline:  Plumber dies after getting stuck in a lift in Naraina: Delhi Police
+DESC:  According to Delhi Police, the incident took place under the limits of Naraina police station. PERSON, a resident of Rajeev Camp, works as a plumber and he got stuck while maintaining the lift, they said. "A PCR was received at Naraina police station
+****
+****
+DUPLICATE News 11
+Score:  0.960643888
+NewsKey:  1088504
+Headline:  Plumber dies after getting stuck in lift in Delhi
+DESC:  New Delhi, Oct 9 (PTI) A plumber died in a lift on Monday when it started moving all of a sudden in west Delhi's Narayana area, police said on Monday. The incident took place in a multistorey building's lift which the plumber had entered to clear the
+****
+****
+DUPLICATE News 12
+Score:  0.953558
+NewsKey:  1089572
+Headline:  Plumber dies after getting stuck under lift in Delhi
+DESC:  A 30-year-old plumber in west Delhi's PERSON area was killed when a lift came down on him while he was peeing through its shaft, police said on Monday. The incident took place between 12:30 and 1 pm in a multistorey building. The plumber was called t
+****
+
+
+
+
+
